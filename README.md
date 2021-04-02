@@ -5,7 +5,7 @@
 
 Code and document samples for the writing a Assainment- 9.
 
-# Bangla Rider Sharing.........
+# Bike Shop.........
 
 -------------------------------------
 _____________________
@@ -24,11 +24,11 @@ Here I am use -----
 ---------------
 ## Live site Link:
 
-# https://urban-rider-3b000.web.app/
+# https://sleepy-bartik-33e97c.netlify.app/home
 
-# server side link
+# server side link--> https://mighty-eyrie-27814.herokuapp.com/
 
-    https://mighty-eyrie-27814.herokuapp.com/
+# client side link--> https://sleepy-bartik-33e97c.netlify.app/home
 
 ----------
 
