@@ -24,11 +24,11 @@ Here I am use -----
 ---------------
 ## Live site Link:
 
-# https://sleepy-bartik-33e97c.netlify.app/home
+# https://sleepy-bartik-33e97c.netlify.app/
 
 # server side link--> https://mighty-eyrie-27814.herokuapp.com/
 
-# client side link--> https://sleepy-bartik-33e97c.netlify.app/home
+# client side link--> https://sleepy-bartik-33e97c.netlify.app/
 
 ----------
 
