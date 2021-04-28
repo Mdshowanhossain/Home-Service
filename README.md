@@ -32,7 +32,7 @@ Here I am use -----
 ---------------
 ## Live site Link:
 
-# FIRE_BASE LIVE SITE-------------------->https://home-service-c938c.web.app/dashboard
+# FIRE_BASE LIVE SITE-------------------->https://home-service-c938c.web.app/
 
 # NETLIFY LIVE SITE---------------------->https://serene-hopper-69af61.netlify.app/
 
